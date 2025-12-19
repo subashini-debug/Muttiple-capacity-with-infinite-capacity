@@ -48,15 +48,18 @@ print("Waiting time in system (Ws):", round(Ws, 3), "sec")
 print("Waiting time in conveyor (Wq):", round(Wq, 3), "sec")
 
 
-# Inputs
 
-<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
-## Output :
+## Inputs :
 
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
+## Output
+
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
-## Result : 
+
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
+
+## Result
 
 
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
