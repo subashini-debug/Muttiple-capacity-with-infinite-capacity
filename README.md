@@ -38,13 +38,21 @@ p0 = 1 / (
 )
 
 Lq = (p0 * (lam / mu) ** c * rho) / (math.factorial(c) * (1 - rho) ** 2)
+
 Ls = Lq + lam / mu
+
 Wq = Lq / lam
+
 Ws = Ls / lam
 
+
+
 print("Average materials in system (Ls):", round(Ls, 3))
+
 print("Average materials in conveyor (Lq):", round(Lq, 3))
+
 print("Waiting time in system (Ws):", round(Ws, 3), "sec")
+
 print("Waiting time in conveyor (Wq):", round(Wq, 3), "sec")
 
 
